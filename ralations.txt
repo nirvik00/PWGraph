@@ -1,0 +1,56 @@
+
+Complete Set of Relations
+0) Youth Coordinating Board | Youth Coordinating Board - Youth Coordinating Board-City Council,4.0; : 80
+1) Regulatory Services | Regulatory Services - Regulatory Services-City Assessor,10.0;City Council,4.0;CPED-Development Services,10.0;CPED-Housing Policy & Development,4.0;Health,10.0; : 100
+2) PW | PW-Water - PW-Water-City Attorney,4.0;City Council,4.0;Human Resources,7.0;Information Technology,10.0;Neighborhood Community Relations,10.0;PW-Traffic & Parking,7.0; : 200
+3) PW | PW-Transportation Planning & Engineering - PW-Transportation Planning & Engineering-City Attorney,4.0;City Council,4.0;CPED-Long Range Planning,10.0;Human Resources,7.0;Information Technology,10.0;Neighborhood Community Relations,10.0;PW-Traffic & Parking,10.0; : 10
+4) PW | PW-Traffic & Parking - PW-Traffic & Parking-City Attorney,4.0;City Council,4.0;Human Resources,7.0;Information Technology,10.0;Neighborhood Community Relations,10.0;PW-Transportation Planning & Engineering,10.0; : 30
+5) PW | PW-Admin - PW-Admin-City Attorney,4.0;Civil Rights,4.0;City Council,4.0;Human Resources,7.0;Information Technology,10.0;Neighborhood Community Relations,10.0;PW-Traffic & Parking,10.0; : 40
+6) Police | Police-QC - Police-QC-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 49
+7) Police | Police-Traffic - Police-Traffic-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 32
+8) Police | Police-Tech & Support - Police-Tech & Support-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 54
+9) Police | Police-Strategic Analysis - Police-Strategic Analysis-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 43
+10) Police | Police-Records - Police-Records-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 23
+11) Police | Police-PIO - Police-PIO-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 53
+12) Police | Police-P & E - Police-P & E-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 54
+13) Police | Police-Ops & Admin - Police-Ops & Admin-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 76
+14) Police | Police-Licensing - Police-Licensing-City Council,4.0;Communications,7.0;CPED-Economic Policy & Development,10.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 2
+15) Police | Police-Juvenile - Police-Juvenile-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 43
+16) Police | Police-Internal Affairs - Police-Internal Affairs-Civil Rights,10.0;City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 65
+17) Police | Police-General Investigations - Police-General Investigations-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 65
+18) Police | Police-Forensics - Police-Forensics-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 23
+19) Police | Police-Finance - Police-Finance-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 65
+20) Police | Police-EIS - Police-EIS-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 34
+21) Police | Police-Chief of Staff - Police-Chief of Staff-City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 1
+22) Police | Police-Admin - Police-Admin-City Attorney,10.0;City Council,4.0;Communications,7.0;Domestic Abuse Project,10.0;Human Resources,7.0;Information Technology,10.0; : 100
+23) Neighborhood Community Relations | Neighborhood Community Relations - Neighborhood Community Relations-City Assessor,10.0;City Coordinator,7.0;City Council,4.0;Communications,7.0;CPED-Economic Policy & Development,4.0;Finance-Development Finance,10.0;Information Technology,4.0; : 43
+24) MDR | MDR - MDR-City Assessor,10.0;City Council,4.0;Communications,7.0;CPED-Economic Policy & Development,10.0;Finance-Treasury Utility Billing,10.0;Health,10.0;PW-Water,10.0;Regulatory Services,10.0; : 54
+25) Mayor | Mayor - Mayor-City Attorney,10.0;City Coordinator,10.0;Civil Rights,10.0;City Clerk,10.0;City Council,4.0;Intergovernmental Relations,10.0; : 7
+26) Internal Audit | Internal Audit - Internal Audit-City Council,4.0;Information Technology,4.0; : 23
+27) Information Technology | Information Technology - Information Technology-City Coordinator,10.0;City Council,4.0;Human Resources,10.0; : 54
+28) Intergovernmental Relations | Intergovernmental Relations - Intergovernmental Relations-City Coordinator,10.0;City Council,4.0;CPED-Long Range Planning,7.0;Information Technology,4.0; : 54
+29) Human Resources | Human Resources - Human Resources-City Attorney,7.0;City Coordinator,10.0;City Council,4.0;CPED-Economic Policy & Development,7.0;CPED-Long Range Planning,10.0;Finance-Risk Management,10.0;Information Technology,4.0; : 6
+30) Health | Health - Health-City Council,4.0;CPED-Development Services,10.0;CPED-Economic Policy & Development,10.0;Finance-Treasury Utility Billing,10.0;Health,*;Information Technology,10.0;Regulatory Services,10.0;Youth Coordinating Board,10.0; : 5
+31) Fire | Fire-Admin - Fire-Admin-City Attorney,10.0;City Council,4.0;Communications,7.0;Human Resources,7.0; : 2
+32) Finance | Finance-Treasury Utility Billing - Finance-Treasury Utility Billing-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Intergovernmental Relations,7.0;Information Technology,4.0;PW-Water,10.0; : 54
+33) Finance | Finance-Risk Management - Finance-Risk Management-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Risk Management,*;Intergovernmental Relations,7.0;Information Technology,4.0; : 45
+34) Finance & Property Services | Finance & Property Services - Finance & Property Services-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Intergovernmental Relations,7.0;Information Technology,4.0;Neighborhood Community Relations,10.0; : 34
+35) Finance | Finance-Procurement - Finance-Procurement-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Finance-Procurement,*;Intergovernmental Relations,7.0;Information Technology,4.0; : 4
+36) Finance | Finance-Payroll - Finance-Payroll-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Finance-Risk Management,7.0;Human Resources,10.0;Intergovernmental Relations,7.0;Information Technology,4.0; : 34
+37) Finance | Finance-Development Finance - Finance-Development Finance-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Intergovernmental Relations,7.0;Information Technology,4.0;Neighborhood Community Relations,10.0; : 34
+38) Finance | Finance-Debt Management - Finance-Debt Management-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Intergovernmental Relations,7.0;Information Technology,4.0; : 34
+39) Finance | Finance-Controller - Finance-Controller-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Finance-Development Finance,7.0;Intergovernmental Relations,7.0;Information Technology,4.0; : 34
+40) Finance | Finance-Budget Management - Finance-Budget Management-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Finance-Admin,10.0;Intergovernmental Relations,7.0;Information Technology,4.0; : 6
+41) Finance | Finance-Admin - Finance-Admin-City Coordinator,10.0;Civil Rights,10.0;City Council,4.0;Intergovernmental Relations,7.0;Information Technology,4.0;PW-Admin,7.0; : 65
+42) Domestic Abuse Project | Domestic Abuse Project - Domestic Abuse Project-City Council,4.0; : 56
+43) CPED | CPED-Long Range Planning - CPED-Long Range Planning-City Assessor,10.0;City Attorney,4.0;City Council,4.0;CPED-Development Services,7.0;CPED-Economic Policy & Development,4.0;CPED-Housing Policy & Development,7.0;Intergovernmental Relations,7.0;Information Technology,10.0;PW-Traffic & Parking,7.0;PW-Transportation Planning & Engineering,7.0; : 56
+44) CPED | CPED-Housing Policy & Development - CPED-Housing Policy & Development-City Assessor,10.0;City Attorney,4.0;City Council,4.0;CPED-Development Services,7.0;CPED-Economic Policy & Development,4.0;CPED-Long Range Planning,7.0;Finance-Development Finance,10.0;Intergovernmental Relations,7.0;Information Technology,10.0;PW-Traffic & Parking,7.0; : 34
+45) CPED | CPED-Economic Policy & Development - CPED-Economic Policy & Development-City Assessor,10.0;City Attorney,4.0;City Council,4.0;CPED-Development Services,4.0;CPED-Housing Policy & Development,10.0;CPED-Long Range Planning,10.0;Health,10.0;Intergovernmental Relations,7.0;Information Technology,10.0;PW-Traffic & Parking,7.0;Regulatory Services,10.0;Youth Coordinating Board,10.0; : 67
+46) CPED | CPED-Development Services - CPED-Development Services-City Assessor,10.0;City Attorney,4.0;Civil Rights,4.0;City Council,4.0;CPED-Economic Policy & Development,4.0;CPED-Housing Policy & Development,7.0;CPED-Long Range Planning,10.0;Finance-Treasury Utility Billing,10.0;Intergovernmental Relations,7.0;Information Technology,10.0;PW-Traffic & Parking,7.0; : 78
+47) Communications | Communications - Communications-City Coordinator,10.0;City Council,4.0;Intergovernmental Relations,10.0;Neighborhood Community Relations,10.0; : 53
+48) City Council | City Council - City Council-City Attorney,10.0;City Coordinator,4.0;Civil Rights,10.0;City Clerk,10.0;Communications,10.0;CPED-Economic Policy & Development,10.0;Intergovernmental Relations,10.0;Neighborhood Community Relations,10.0;PW-Admin,10.0; : 45
+49) City Clerk | City Clerk - City Clerk-City Council,4.0;Information Technology,7.0;Neighborhood Community Relations,10.0; : 56
+50) Civil Rights | Civil Rights - Civil Rights-City Council,4.0;Information Technology,7.0;Neighborhood Community Relations,10.0; : 43
+51) City Coordinator | City Coordinator - City Coordinator-Civil Rights,10.0;City Council,4.0;Communications,10.0;CPED-Long Range Planning,7.0;Human Resources,4.0;Intergovernmental Relations,10.0;Information Technology,7.0;Neighborhood Community Relations,10.0;PW-Admin,7.0; : 34
+52) City Attorney | City Attorney - City Attorney-City Coordinator,7.0;Civil Rights,10.0;City Clerk,10.0;City Council,4.0;Communications,7.0;CPED-Long Range Planning,4.0;Finance-Development Finance,7.0;Information Technology,10.0;PW-Admin,7.0; : 56
+53) City Assessor | City Assessor - City Assessor-City Council,4.0;Information Technology,10.0; : 80
